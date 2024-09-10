@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I have fair knowledge in Data Visualization, Table
 - SQL
 - Python
 # 🔗 Useful Links
-www.linkedin.com/in/poornima-potadar-9784a8214
+
 
 Reach out to me - pbpotadar@gmail.com
 <!---
