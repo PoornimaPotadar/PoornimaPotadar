@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I have fair knowledge in Data Visualization, Table
   
 ## 🔗 Useful Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poornima-potadar-9784a8214)
+[![linkedin](https://imag.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poornima-potadar-9784a8214)
 
 Reach out to me - pbpotadar@gmail.com
 <!---
